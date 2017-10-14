@@ -1,0 +1,4 @@
+﻿  exceptionExample.cpp
+d:\visualstudio\worldwar\worldwar\worldwar\exceptionexample.cpp(17): warning C4101: 'e': unreferenced local variable
+  WorldWar.vcxproj -> D:\VisualStudio\WorldWar\WorldWar\Debug\WorldWar.exe
+  WorldWar.vcxproj -> D:\VisualStudio\WorldWar\WorldWar\Debug\WorldWar.pdb (Partial PDB)
